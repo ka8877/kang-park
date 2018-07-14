@@ -26,3 +26,12 @@ _**IB**_
      1. Hello
      1. Hello
          1. Hello
+
+> 힘들때 웃는 자가 일류다
+
+***
+
+```java
+public static void main(String[] args){
+   System.out.println("Hello");
+}
